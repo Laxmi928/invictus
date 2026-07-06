@@ -1,267 +1,240 @@
-Digital Medicine 🕉️
-Converting 5,000 Years of Aesthetic Heritage into Modern Healing
-Digital Medicine - Ancient Wisdom, Modern Healing
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Invictus-DTU-blue?style=for-the-badge)
 
-📋 Project Overview
-Digital Medicine is a comprehensive web application that transforms traditional Indian art, sound, and stories into accessible digital healing tools. By bridging ancient wisdom with modern technology, we address the fundamental truth: Modern stress needs soulful solutions.
 
-The Vision
-In a hyperconnected world where mental health crises are at all-time highs, traditional stress management tools fall short. We need interventions that touch the soul—grounded in millennia of human wisdom. Digital Medicine brings together:
+# 🕉️ Digital Medicine
+### *Converting 5,000 Years of Aesthetic Heritage into Modern Healing*
 
-Sacred Sound Therapy - Raagas and Vedic Chants
-Interactive Mandalas - Synchronized with your breathing
-AI-Powered Storytelling - Panchatantra and Jataka Tales for inner wisdom
-🎯 Three Core Features
-1. Raaga Sound Therapy 🎵
-Harness the healing power of Indian classical music based on the mathematical and spiritual foundations of Raagas.
+Digital Medicine is a comprehensive web application that transforms traditional Indian art, sound, and storytelling into accessible digital healing tools. By blending ancient Indian wisdom with modern technology, it helps users reduce stress, improve mindfulness, and enhance emotional well-being.
 
-What You Get:
+---
 
-Curated library of healing Raagas (Yaman, Bhairav, Ahir Bhairav, etc.)
-Vedic mantras and chants (Om, Gayatri Mantra)
-5-30 minute customizable sessions
-Scientifically-backed frequency therapy
-How It Heals:
+## 🌟 Vision
 
-Reduces cortisol (stress hormone)
-Lowers blood pressure and heart rate
-Enhances focus and mental clarity
-Opens the heart center and awakens spiritual awareness
-2. Breathing Mandalas 🎨
-Experience the intersection of sacred geometry and breath work through interactive mandalas and rangoli patterns.
+Modern stress needs soulful solutions.
 
-What You Get:
+Digital Medicine combines:
 
-Animated mandalas that sync with your breathing
-Interactive Rangoli creation tool
-10-25 minute guided breathing sessions
-Six specialized mandala practices (Morning Clarity, Heart Opening, Deep Sleep, etc.)
-How It Heals:
+- 🎵 Sacred Sound Therapy (Raagas & Vedic Chants)
+- 🎨 Interactive Breathing Mandalas
+- 📖 AI-Powered Sacred Storytelling
 
-Calms the nervous system instantly
-Enhances your meditative focus
-Combines visual meditation with pranayama
-Encourages creative expression through rangoli design
-3. Sacred Storytelling 📖
-AI-powered personalization delivers ancient wisdom tales that directly address your emotional journey.
+---
 
-What You Get:
+# ✨ Features
 
-8+ Panchatantra and Jataka tales
-AI-personalized story recommendations based on emotional state
-Reflective journaling prompts after each story
-Organized by emotional themes: Compassion, Courage, Loss, Wisdom, Love, Transformation
-How It Heals:
+## 🎵 1. Raaga Sound Therapy
 
-Provides emotional guidance through metaphor
-Normalizes struggle through archetypal characters
-Integrates wisdom through reflective practice
-Builds emotional intelligence through narrative
-🚀 Getting Started
-Installation
-Clone or download this repository
-Open index.html in your web browser
-No installation or backend required!
-Using the Website
-Homepage (index.html)
+Experience the healing power of Indian Classical Music.
 
-Explore the three core features
-Learn about the problem we solve
-Read testimonials from healing practitioners
-Access quick tools for immediate relief
-Raaga Sound Therapy (raaga-therapy.html)
+### Includes
+- Healing Raagas
+- Vedic Chants
+- Guided Sessions
+- Frequency-Based Relaxation
 
-View the sound library with 6 different Raagas
-Click "Play Now" to experience each session
-Learn how frequencies heal your nervous system
-Discover the best Raaga for your current emotional state
-Breathing Mandalas (mandala-tools.html)
+### Benefits
+- Reduces stress
+- Improves focus
+- Calms the nervous system
+- Promotes emotional balance
 
-Watch the animated mandala sync with your breath
-Follow guided breathing sessions (Box Breathing, Extended Exhale, Alternate Nostril)
-Create your own Rangoli patterns
-Choose from 6 specialized mandala meditation sessions
-Sacred Storytelling (storytelling.html)
+---
 
-Browse our story library
-Filter by emotional theme (Compassion, Courage, etc.)
-Read personalized stories
-Journal your reflections using our integrated journal system
-Your entries are saved locally to your browser
-🌟 Key Features
-✨ Fully Responsive Design
+## 🎨 2. Breathing Mandalas
 
-Works seamlessly on desktop, tablet, and mobile devices
-Optimized touch interactions for all devices
-✨ Offline Capable
+Meditate with interactive sacred geometry.
 
-All content works without internet connection
-Local storage for saving journal entries and preferences
-✨ Accessibility First
+### Includes
+- Animated Mandalas
+- Guided Breathing Sessions
+- Rangoli Creation Tool
+- Meditation Exercises
 
-WCAG compliant design
-Respects user's motion preferences
-Clear navigation and semantic HTML
-✨ Interactive Elements
+### Benefits
+- Instant relaxation
+- Better breathing
+- Improved concentration
+- Creative mindfulness
 
-Animated breathing mandalas
-Rangoli drawing tool
-Story selector with theme filters
-Journal system with local storage
-Modal-based interactive sessions
-✨ Beautiful Indian Aesthetics
+---
 
-Color palette inspired by Indian traditional art
-Gold accents representing prosperity
-Sacred geometry elements throughout
-Respectful representation of traditions
-🏗️ Project Structure
+## 📖 3. Sacred Storytelling
+
+Ancient wisdom personalized for modern life.
+
+### Includes
+- Panchatantra Stories
+- Jataka Tales
+- Reflection Journal
+- Theme-based Recommendations
+
+### Benefits
+- Emotional healing
+- Self-reflection
+- Wisdom through storytelling
+- Personal growth
+
+---
+
+# 🚀 Getting Started
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Laxmi928/invictus-dtu.git
+cd invictus-dtu
+```
+
+## Run the Project
+
+Simply open:
+
+```text
+index.html
+```
+
+in your browser.
+
+No installation or backend is required.
+
+---
+
+# 📂 Project Structure
+
+```text
 digital-medicine/
-├── index.html                 # Main homepage
-├── raaga-therapy.html         # Sound therapy feature
-├── mandala-tools.html         # Mandala & breathing feature
-├── storytelling.html          # AI storytelling feature
+├── index.html
+├── raaga-therapy.html
+├── mandala-tools.html
+├── storytelling.html
 ├── css/
-│   ├── style.css             # Main styling
-│   └── animations.css        # Animation definitions
+│   ├── style.css
+│   └── animations.css
 ├── js/
-│   └── script.js             # Interactive functionality
-└── README.md                 # This file
-🎨 Design Highlights
-Color Palette
-Primary Brown (#8B4513) - Earthy grounding
-Secondary Gold (#D4A574) - Prosperity and warmth
-Accent Red (#C41E3A) - Energy and passion
-Sage Green (#6B8E5A) - Balance and nature
-Typography
-Clean, modern sans-serif for readability
-Hierarchical sizing for visual flow
-Line-height optimized for comfortable reading
-Animations
-Smooth transitions throughout
-Breathing sync animations for mandalas
-Staggered reveals for grid items
-Respects prefers-reduced-motion for accessibility
-💻 Technology Stack
-Frontend:
+│   └── script.js
+└── README.md
+```
 
-HTML5 - Semantic markup
-CSS3 - Advanced styling with animations
-Vanilla JavaScript - No dependencies required
-Local Storage API - For journal persistence
-Why No Backend? This prototype focuses on the user experience and healing interactions. A production version would include:
+---
 
-User authentication
-Persistent database for journals
-Actual audio streaming for Raagas
-ML-based story personalization
-Analytics and progress tracking
-🧘 How to Use Each Feature
-Raaga Sound Therapy
-Navigate to "Features" → "Raaga Sound Therapy"
-Browse the curated Raaga collection
-Click "Play Now" on any Raaga
-Listen for 5-30 minutes
-Journal your experience for heightened benefits
-Recommended Practice:
+# 💻 Tech Stack
 
-Morning: Raga Yaman for clarity
-Afternoon: Raga Jor for energy
-Evening: Raga Bhairav for meditation
-Night: Vedic Om Chants for sleep
-Breathing Mandalas
-Navigate to "Features" → "Breathing Mandalas"
-Choose from pre-built sessions or create custom
-Follow the mandala's expansion/contraction
-Let your breath flow naturally
-Create rangoli patterns for creative flow
-Recommended Times:
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Local Storage API
 
-10 minutes upon waking
-2-5 minute breaks during work
-15-20 minutes before sleep
-Sacred Storytelling
-Navigate to "Features" → "Sacred Storytelling"
-Select a theme or read a random story
-Absorb the narrative and wisdom
-Reflect using the provided journal prompt
-Save your insights for future reference
-Integration Tips:
+---
 
-Read one story daily
-Journal immediately after reading
-Revisit stories that felt significant
-Share stories with friends for deeper understanding
-🔄 Local Storage & Data
-Your personal data is stored locally in your browser:
+# ✨ Highlights
 
-Journal Entries - Stored in localStorage under myJournal
-Saved Stories - Stored under savedStories
-Preferences - Session-based (cleared on browser close)
-To Export Your Journal:
+- 📱 Fully Responsive
+- 🌐 Works Offline
+- ♿ Accessibility Friendly
+- 🎨 Beautiful Indian-inspired UI
+- 💾 Local Storage Support
+- ⚡ Lightweight & Fast
 
-Open browser console (F12)
-Run: JSON.parse(localStorage.getItem('myJournal'))
-Copy the output and save as JSON file
-To Clear Data:
+---
 
-Open browser settings → Clear browsing data
-Select "Cookies and site data"
-Choose this site and clear
-🌍 Roadmap (Future Enhancements)
-Phase 2 - Backend & Persistence
-User accounts and authentication
-Cloud storage for journals
-Progress tracking & analytics
-Habit streak system
-Phase 3 - AI Enhancement
-GPT-based story personalization
-Emotion detection from text
-Recommendation engine
-Therapeutic progress monitoring
-Phase 4 - Audio & Media
-Actual Raaga audio library
-Biometric sync (heart rate, breathing)
-Video guides for pranayama
-Community features and story sharing
-Phase 5 - Integration
-Wearable device support
-Calendar integration
-Reminder system
-App version (iOS/Android)
-📊 Impact Metrics
-Based on user feedback in development:
+# 🧘 How to Use
 
-98% reported reduced anxiety after first session
-87% found stories personally relevant
-92% continued practice after first week
-4.8/5 average user satisfaction rating
-🙏 Gratitude & Attribution
-This project honors:
+### 🎵 Raaga Therapy
 
-The Panchatantra - Ancient Indian wisdom literature
-The Jataka Tales - Buddhist teaching stories
-Vedic Traditions - 5,000+ years of spiritual science
-Modern Psychology - Evidence-based stress management
-The Indian Arts - Mandalas, Raagas, and Sacred Geometry
-📜 License
-This project is created for healing and education. Feel free to:
+- Select a Raaga
+- Click **Play Now**
+- Relax for 5–30 minutes
 
-✅ Use personally for healing
-✅ Share with friends and family
-✅ Adapt for educational purposes
-❌ Not for commercial use without permission
-❌ Not for profit without consent
-🤝 Contributing
-This is a living project. Contributions are welcome:
+---
 
-Suggest new stories or Raagas
-Report bugs or accessibility issues
-Propose features for better healing outcomes
-Share your personal healing journeys
-📞 Contact & Support
-For questions, suggestions, or partnership inquiries:
+### 🎨 Breathing Mandalas
 
-Visit: Homepage
-Submit feedback through the contact form
-Share your healing story with us
+- Choose a breathing session
+- Follow the animated mandala
+- Create Rangoli patterns
+
+---
+
+### 📖 Sacred Storytelling
+
+- Select a story theme
+- Read the story
+- Journal your reflections
+
+---
+
+# 💾 Local Storage
+
+The application stores data locally.
+
+- Journal Entries
+- Saved Stories
+- User Preferences
+
+---
+
+# 🚀 Future Enhancements
+
+- User Authentication
+- Cloud Database
+- AI Personalization
+- Audio Streaming
+- Progress Tracking
+- Mobile App
+- Wearable Device Support
+
+---
+
+# 📊 Expected Impact
+
+- Reduce stress and anxiety
+- Improve emotional well-being
+- Encourage mindfulness
+- Preserve Indian cultural heritage through technology
+
+---
+
+# 🙏 Acknowledgements
+
+Inspired by:
+
+- Panchatantra
+- Jataka Tales
+- Indian Classical Music
+- Vedic Traditions
+- Sacred Geometry
+- Modern Psychology
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome.
+
+You can help by:
+
+- Adding new stories
+- Improving accessibility
+- Enhancing UI/UX
+- Suggesting new healing activities
+
+---
+
+# 📜 License
+
+This project is intended for educational and non-commercial purposes.
+
+---
+
+# 👥 Team
+
+**Team Solfinders**
+
+Developed with ❤️ for **Invictus DTU Hackathon**.
+
+---
+
+## ⭐ If you like this project, don't forget to give it a Star!
